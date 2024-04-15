@@ -4,6 +4,6 @@
   <h3 align="center">Embarking on a journey as a Data Analyst
 
 #### 🌱 I’m currently learning Power BI, SQL, MS Excel, Python 
-#### 👨‍💻 All of my projects are available at  [My Portfolio] (https://ramya-munagala.super.site/)
+#### 👨‍💻 All of my projects are available at  [My Portfolio](https://ramya-munagala.super.site/)
 #### 💬 Ask me about Data Cleaning, Data Manipulating, Data Visualization
 
